@@ -1,11 +1,3 @@
-# Codtech-Task1
-
-Name: Sathvika K <br>
-Company Name: Codtech IT Solutions <br>
-Domain: Machine Learning <br>
-Internship task: Credit Card Fraud Detection using a Machine Learning Model<br>
-
-
 # Credit Card Fraud Detection
 
 ## Project Overview
